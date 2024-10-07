@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hp/Document",
-      "program": "c:/Users/Hp/Document/build/Debug/outDebug",
+      "cwd": "c:/Users/Hp/Document/A1-Intro-to-Data-Science",
+      "program": "c:/Users/Hp/Document/A1-Intro-to-Data-Science/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
